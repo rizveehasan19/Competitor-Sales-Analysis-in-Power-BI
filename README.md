@@ -14,8 +14,13 @@ In this latest case study, I've analyzed sales data to make sense of the sales t
 
 ✨Market share measure is there so that the management can take a look at it instantly
 
+![image](https://github.com/user-attachments/assets/2bf25b24-7a4c-4d21-b42d-08675adcd315)
+
 ✨In the advanced insights tab, added a decomposition tree visual so that the users can check the revenue breakdown easily
 
 ✨Also incorporated key influencers visual to generate curated AI-powered customizable insights for the stakeholders
+
+![image](https://github.com/user-attachments/assets/c8ea3e55-7b8d-426a-ad1a-523a4f1629ff)
+
 
 ✨Used company themes as per the marketing requirement
